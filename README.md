@@ -2,6 +2,15 @@
 MANTIS, short for Mapping and Navigation Technology Integrating SLAM, currently relies on Hector Mapping to facilitate its mapping operations. This approach enables MANTIS to generate detailed maps of its surroundings while simultaneously navigating through them. However, in the ongoing pursuit of enhanced functionality and performance, there are imminent plans to integrate Gmapping into the MANTIS system.
 By incorporating Gmapping, MANTIS aims to further refine its mapping capabilities, allowing for more accurate and efficient navigation in diverse environments.
 
+
+
+https://github.com/Avisheet/Mantis/assets/59338120/e65eb5c8-eb00-4cac-90d0-b5668eacf21c
+
+
+
+
+
+
 ## File Structure
 - **joy_py**: Joy_py facilitates the control of a SLAM bot via an Xbox controller.
 - **Low Level Codes**: It consist of the code for Arduino Mega.
