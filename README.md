@@ -34,7 +34,7 @@ roslaunch rplidar_ros rplidar.launch
 **Launching the mapping node** 
 
 ```
-roslaunch wc_navigation map_hector.launch
+roslaunch wc_navigation map_hector.launch)
 ```
 
 **Saving the map**
@@ -52,3 +52,4 @@ To launch the navigation using only RViZ
 ```
 roslaunch wc_navigation wc_navigation.launch
 ```
+## **_[Team ROBOSOCROS](https://github.com/RobosocNITH-ROS)_**
